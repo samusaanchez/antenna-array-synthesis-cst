@@ -1,0 +1,1 @@
+Add here: exported figures from the report (CAD model, 3D patterns, polar cuts)
