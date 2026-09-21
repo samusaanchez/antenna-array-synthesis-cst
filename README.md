@@ -58,10 +58,9 @@ The discrepancies are physical, not numerical errors, and are analyzed in the re
 
 ```
 docs/       Full project report (PDF)
-figures/    CAD models, 3D radiation patterns, 1D polar cuts
-```
+figures/    Both .cst projects
 
-CST project files (.cst) available on request.
+```
 
 ## Skills demonstrated
 
